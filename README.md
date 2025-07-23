@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @SvenPVoigt
-- 👀 I pursue interests in materials science, knowledge management, and AI.
+- 👀 My interests include the application of knowledge management and AI to domains like materials science.
 - 🌱 I’m currently learning about multimodal, document-length information retrieval.
-- 💞️ I’m looking to collaborate on anything knowledge management related.
+- 💞️ Message me to collaborate on knowledge management tools.
 - 📫 svenpvoigt@gmail.com
 
 <!---
